@@ -3,8 +3,17 @@
 I'm a 21-year-old Full-Stack Developer with a passion for building web applications. Currently, I'm working on an exciting project called **Playpal** with my amazing team.
 
 ### 👨‍💻 What I’m Working On
-- **Backend:** Ruby on Rails is my go-to framework.
-- **Frontend:** I'm diving into React to expand my front-end skills and bring dynamic user interfaces to life.
+- **Backend:** Ruby on Rails is my go-to framework. ( I am planning to dive into Node JS.)
+- **Frontend:** Working on my React and Redux skill. recreating mini projects with my own logic and problem solving skills.
+
+### 👨‍💻 What I have worked with
+1. **Back End**
+   - Ruby on Rails (a lot of gems.)
+   - SQL (Active Records)
+2. **Front End**
+   - JavaScript (Stimulus)
+   - HTML, CSS, SCSS
+
 
 ### 🌱 Always Learning
 I'm committed to continuous improvement and am eager to sharpen my React skills. If you have any tips or resources, I'd love to hear from you!
@@ -12,6 +21,8 @@ I'm committed to continuous improvement and am eager to sharpen my React skills.
 ### 🤝 Let’s Collaborate
 I’m actively seeking work opportunities and would love to collaborate on interesting projects. If you have a project in mind or just want to connect, feel free to reach out.
 
+
+📧 **LinkedIn:** [Zainan Ali](https://www.linkedin.com/in/zainan-ali/)
 📧 **Email me at:** [zainanzaher09@gmail.com](mailto:zainanzaher09@gmail.com)
 
 <!--
