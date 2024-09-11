@@ -22,7 +22,7 @@ I'm committed to continuous improvement and am eager to sharpen my React skills.
 I’m actively seeking work opportunities and would love to collaborate on interesting projects. If you have a project in mind or just want to connect, feel free to reach out.
 
 
-📧 **LinkedIn:** [Zainan Ali](https://www.linkedin.com/in/zainan-ali/)
+📧 **LinkedIn:** [Zainan Ali](https://www.linkedin.com/in/zainan-ali/) <br>
 📧 **Email me at:** [zainanzaher09@gmail.com](mailto:zainanzaher09@gmail.com)
 
 <!--
