@@ -11,7 +11,7 @@ I'm a 21-year-old Full-Stack Developer with a passion for building web applicati
    - Ruby on Rails (a lot of gems.)
    - SQL (Active Records)
 2. **Front End**
-   - JavaScript (Stimulus)
+   - Stimulus, React and Redux
    - HTML, CSS, SCSS
 
 
