@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub profile!
 
-I'm a 21-year-old Full-Stack Developer with a passion for building web applications. Currently, I'm working on an exciting project called **Playpal** with my amazing team.
+ Full-Stack Developer with a passion for building web applications. Currently, I'm working on an exciting project called **Playpal** with my amazing team.
 
 ### 👨‍💻 What I’m Working On
 - **Backend:** Ruby on Rails is my go-to framework. ( I am planning to dive into Node JS.)
