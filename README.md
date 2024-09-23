@@ -3,7 +3,7 @@
  Full-Stack Developer with a passion for building web applications. Currently, I'm working on an exciting project called **Playpal** with my amazing team.
 
 ### 👨‍💻 What I’m Working On
-- **Backend:** Ruby on Rails is my go-to framework. ( I am planning to dive into Node JS.)
+- **Backend:** Ruby on Rails is my go-to framework.
 - **Frontend:** Working on my React and Redux skill. recreating mini projects with my own logic and problem solving skills.
 
 ### 👨‍💻 What I have worked with
