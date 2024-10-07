@@ -9,10 +9,10 @@
 ### 👨‍💻 What I have worked with
 1. **Back End**
    - Ruby on Rails (a lot of gems.)
-   - SQL (Active Records)
+   - MySQL (Active Records)
 2. **Front End**
-   - Stimulus, React and Redux
-   - HTML, CSS, SCSS
+   - Stimulus, React, Redux, Typescript
+   - HTML, CSS, SCSS, TailwindCSS, Bootstrap
 
 
 ### 🌱 Always Learning
