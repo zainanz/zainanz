@@ -9,6 +9,7 @@
 ### 👨‍💻 What I have worked with
 1. **Back End**
    - Ruby on Rails (a lot of gems.)
+   - NodeJS Express JS
    - MySQL (Active Records)
 2. **Front End**
    - Stimulus, React, Redux, Typescript
