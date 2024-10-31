@@ -14,6 +14,7 @@
    - Ruby on Rails (a lot of gems.)
    - NodeJS Express JS
    - MySQL (Active Records)
+   - Familiarity with MongoDS and Mongoose
 2. **Front End**
    - Stimulus, React, Redux, Typescript
    - HTML, CSS, SCSS, TailwindCSS, Bootstrap
