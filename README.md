@@ -1,17 +1,13 @@
 ## Hi there 👋 Welcome to my GitHub profile!
 
  Full-Stack Developer with a passion for building web applications.
- 
- 🖋️Currently 
+ ### 👨‍💻 What I’m Working On
  1) building PlayPal in React Native
  2) LeetCode Challenges
  3) DSA
  4) creating my documentations. ( https://zainan.info/docs/ - still working on it..)
  5) Exploring C (as some would say middle level language 😆)
 
-### 👨‍💻 What I’m Working On
-- **Backend:** Ruby on Rails is my go-to framework. Node JS, Express JS
-- **Frontend:** Working on my React and Redux skill. recreating mini projects with my own logic and problem solving skills.
 
 ### 👨‍💻 What I have worked with
 1. **Back End**
