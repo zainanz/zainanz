@@ -20,7 +20,7 @@
 
 
 ### 🌱 Always Learning
-I'm committed to continuous improvement and am eager to sharpen my React skills. If you have any tips or resources, I'd love to hear from you!
+I'm committed to continuous improvement and am eager to sharpen my programming skills. If you have any tips or resources, I'd love to hear from you!
 
 ### 🤝 Let’s Collaborate
 I’m actively seeking work opportunities and would love to collaborate on interesting projects. If you have a project in mind or just want to connect, feel free to reach out.
