@@ -2,7 +2,7 @@
 
  Full-Stack Developer with a passion for building web applications.
  
- #Currently 
+ 🖋️Currently 
  1) building PlayPal in React Native
  2) LeetCode Challenges
  3) DSA
