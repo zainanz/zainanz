@@ -5,7 +5,7 @@
  1) building PlayPal in React Native
  2) LeetCode Challenges
  3) DSA
- 4) creating my documentations. ( https://zainan.info/docs/ - still working on it..)
+ 4) creating my documentations or notes ( https://zainan.info/docs/ - still working on it..)
  5) Exploring C (as some would say middle level language 😆)
 
 
