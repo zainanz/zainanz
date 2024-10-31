@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub profile!
 
- Full-Stack Developer with a passion for building web applications.
+ Full-Stack Developer with a passion for building web applications.\n
  Currently 
  1) building PlayPal in React Native
  2) LeetCode Challenges
