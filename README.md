@@ -2,11 +2,12 @@
 
  Full-Stack Developer with a passion for building web applications.
  ### 👨‍💻 What I’m Working On
- 1) building PlayPal in React Native
- 2) LeetCode Challenges
- 3) DSA
- 4) creating my documentations or notes ( https://zainan.info/docs/ - still working on it..)
- 5) Exploring C 
+ 1) create a clone of git using Javascript
+ 2) building PlayPal in React Native
+ 3) LeetCode Challenges
+ 4) DSA
+ 5) creating my documentations or notes ( https://zainan.info/docs/ - still working on it..)
+ 
 
 ### 👨‍💻 What I have worked with
 1. **Back End**
