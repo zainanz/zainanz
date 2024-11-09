@@ -2,7 +2,7 @@
 
  Full-Stack Developer with a passion for building web applications.
  ### 👨‍💻 What I’m Working On
- 1) create a clone of git using Javascript
+ 1) diving deeper in sql
  2) building PlayPal in React Native
  3) LeetCode Challenges
  4) DSA
