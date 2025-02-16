@@ -2,7 +2,7 @@
 
  Full-Stack Developer with a passion for building web applications.
  ### 👨‍💻 What I’m Working On
- 1) c programming (42 Piscine - Completed)
+ 1) c programming (42 Piscine - Completed - Waiting for results.. :D)
  2) DSA 
 
 ### 👨‍💻 What I have worked with
