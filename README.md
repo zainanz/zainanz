@@ -2,10 +2,8 @@
 
  Full-Stack Developer with a passion for building web applications.
  ### 👨‍💻 What I’m Working On
- 1) c programming
- 2) building PlayPal in React Native
- 3) LeetCode Challenges
- 4) DSA 
+ 1) c programming (42 Piscine - Completed)
+ 2) DSA 
 
 ### 👨‍💻 What I have worked with
 1. **Back End**
