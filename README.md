@@ -3,7 +3,6 @@
  Full-Stack Developer with a passion for building web applications.
  ### 👨‍💻 What I’m Working On
  1) c programming (Studying at 42)
- 2) DSA 
 
 ### 👨‍💻 What I have worked with
 1. **Back End**
